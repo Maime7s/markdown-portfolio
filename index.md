@@ -2,20 +2,19 @@
 layout: default
 ---
 
-{% include 01-name.md %}
+1. Item 1
 
-<br>
+2. Item 2
 
-{% include 02-image.md %}
+3. Item 3
 
-<br>
+   1. Item 3a
 
-{% include 03-links.md %}
+   2. Item 3b
 
-<br>
+    Item 1
+    Item 2
+    Item 3
+        Item 3a
+        Item 3b
 
-{% include 04-lists.md %}
-
-<br>
-
-{% include 05-emphasis.md %}
